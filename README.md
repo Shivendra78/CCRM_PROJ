@@ -1,22 +1,17 @@
 # CCRM_PROJ
 Markdown
+Campus Course Records Manager (CCRM)
+Project Overview
+Campus Course Records Manager (CCRM) is a Java console application for managing students, courses, enrollments, and grades. It helps administrators add, update, and deactivate students and courses, enroll students, assign grades, calculate GPA, and handle CSV import/export with backup support.
 
-# Campus Course & Records Manager (CCRM)
-
-This is a comprehensive console-based Java application designed to manage the core data and processes of a higher education institution. It's built to handle everything from student and course information to managing enrollments and grades, all while keeping your data safe with robust file operations.
-
-# Project Overview
-
-The Campus Course & Records Manager (CCRM) is a hands-on project that puts fundamental and advanced Java programming concepts into a single, functional application. It's a great example of object-oriented programming, modern Java APIs, and file handling in action.
-
-Key Features:
-
-* Student Management: You can create, list, update, and even deactivate student records.
-* Course Management: Easily create, update, and deactivate courses, and assign instructors to them.
-* Enrollment & Grading: Manage student enrollments, making sure they don't exceed credit limits, and handle grading and GPA calculations.
-* File Operations: Import and export data in CSV format using modern NIO.2 file operations.
-* Backup System: Create timestamped backups with recursive directory operations to protect your data.
-* System Reports: Generate comprehensive statistics and reports to get a clear overview of the system.
+Features
+Student Management:Add, list, update, and deactivate students.
+Course Management: Add, list, update, and deactivate courses.
+Enrollment & Grading: Enroll/unenroll students, record grades, compute GPA.
+File Operations:Import/export students, courses, and enrollments using CSV files.
+Backup & Utilities:Backup data files and recursive folder size and file listing utilities.
+Robust CLI: Command-line interface with input validation, confirmation prompts, and user-friendly menus.
+Java Concepts: Use of enums, exceptions, assertions, design patterns (Singleton, Builder), and Java streams.
 
 # The Evolution of Java
 
