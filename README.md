@@ -1,4 +1,4 @@
-<img width="660" height="639" alt="image" src="https://github.com/user-attachments/assets/49bac89e-857d-4fb8-90da-80f8a420498b" /># CCRM_PROJ
+# CCRM_PROJ
 Markdown
 
 # Campus Course & Records Manager (CCRM)
@@ -105,9 +105,13 @@ Sample Command:
 
 *ScreenShot of the Operations included in this program
 --> Main Output of the code looks like this where you find options to select as per your requirement
+
 <img width="545" height="337" alt="image" src="https://github.com/user-attachments/assets/bf0ae9bf-0303-40e0-9ffc-f3035a79f130" />
+
 ---->Now here you can see the option now Enter the option 1 you get menu of Student Management
+
 <img width="337" height="276" alt="image" src="https://github.com/user-attachments/assets/c1dbb63f-aba1-41c5-a3ae-bc30cbe7010f" />
+
 --->In this you can see the options of Student management and perform operations as per your Wish let's do some operations
 1. Add New Student
 2. View All Students
@@ -117,25 +121,32 @@ Sample Command:
 6. Generate Student Transcript
 0. Back to Main Menu
 Here is the ScreenShot
+
 <img width="367" height="247" alt="image" src="https://github.com/user-attachments/assets/a8d84013-ad35-4ffa-b9d3-c7a7f461f17e" />
 After Selecting options
+
 <img width="552" height="565" alt="image" src="https://github.com/user-attachments/assets/4ac13555-115d-481e-91c1-94217a0bcc29" />
 
 <img width="1305" height="303" alt="image" src="https://github.com/user-attachments/assets/0330b1dc-5ace-42b8-a03c-a0c5cd7ba9d4" />
 
 When i select option 3
+
 <img width="1272" height="184" alt="image" src="https://github.com/user-attachments/assets/096a941d-7a0c-4df9-9292-4cbb86a4d15a" />
 
 For option 4
+
 <img width="1316" height="352" alt="image" src="https://github.com/user-attachments/assets/d1126768-8926-47b7-baf8-df76e204deeb" />
 
 You can also deactivate Student by option 5
+
 <img width="415" height="260" alt="image" src="https://github.com/user-attachments/assets/562e330e-5505-4bcd-bbe4-0786e0eb7cde" />
 
 Option 6 that is  Generate Student Transcript
+
 <img width="474" height="422" alt="image" src="https://github.com/user-attachments/assets/ca35993c-c861-4c39-8cad-9094a29e719e" />
 
 --->Now we back to our main menu and select COURSE MANAGEMENT option
+
 <img width="577" height="454" alt="image" src="https://github.com/user-attachments/assets/97b74920-b906-4848-92df-a604b13981a2" />
 
 -->IN course Management you see options like
