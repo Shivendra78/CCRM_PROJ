@@ -123,6 +123,7 @@ Sample Command:
 Here is the ScreenShot
 
 <img width="367" height="247" alt="image" src="https://github.com/user-attachments/assets/a8d84013-ad35-4ffa-b9d3-c7a7f461f17e" />
+
 After Selecting options
 
 <img width="552" height="565" alt="image" src="https://github.com/user-attachments/assets/4ac13555-115d-481e-91c1-94217a0bcc29" />
@@ -159,56 +160,73 @@ Option 6 that is  Generate Student Transcript
 7. Search Courses by Semester
 0. Back to Main Menu
 Choose According to your requirement and perform operations lets see some of them
+
 <img width="780" height="807" alt="image" src="https://github.com/user-attachments/assets/8ad72d1e-3ca0-47c8-afec-ba1df641e458" />
 
 When we Select option 2
+
 <img width="1500" height="71" alt="image" src="https://github.com/user-attachments/assets/50391600-e4c2-42b6-84f2-53968ee7c901" />
 
 When we Select option 3
+
 <img width="1533" height="344" alt="image" src="https://github.com/user-attachments/assets/7dc498d4-065d-4747-9ff1-51f0a8303c09" />
 
 We can also update Course
 <img width="1587" height="203" alt="image" src="https://github.com/user-attachments/assets/9954111d-98a6-490b-9474-4b78f0db1286" />
 
 Add more couses
+
 <img width="660" height="555" alt="image" src="https://github.com/user-attachments/assets/10a8ce47-fea1-4b03-9a74-9188a2be2728" />
 -->BY selecting option 5 you can deactivate the course
+
 <img width="639" height="342" alt="image" src="https://github.com/user-attachments/assets/0798f7f4-1352-4e20-8e9c-bf036abfbae9" />
 
 ...->We can also Search by Course
+
 <img width="1554" height="596" alt="image" src="https://github.com/user-attachments/assets/b1714a5b-8f89-4214-9dfe-e2eb3f36a2a6" />
 
 --->We can also Search by SEMESTER
+
 <img width="1631" height="406" alt="image" src="https://github.com/user-attachments/assets/8fb1b08d-314f-4c09-9ca4-4a07ac15d8f7" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 NOW WE SEE ENROLLMENT AND GRAADING MENU BY SELECTING OPTION FROM MAIN MEnu
+
 <img width="611" height="766" alt="image" src="https://github.com/user-attachments/assets/a4a43a49-1f94-4b6f-b1c1-b48739482238" />
 
 -->Adding Student to the course
+
 <img width="563" height="290" alt="image" src="https://github.com/user-attachments/assets/722ae154-5baf-4576-804a-aa4525e474d3" />
 
 --->You can also unenroll student by selecting option 2
 -->> now we Record Grade for the Student
+
 <img width="338" height="343" alt="image" src="https://github.com/user-attachments/assets/ef7a22c0-f8ad-4a41-9a2e-78c26d777f84" />
 
 -->You can also see the student enrolllment by selectiing option 4
+
 <img width="1260" height="326" alt="image" src="https://github.com/user-attachments/assets/f304aa0b-d0ea-4b9d-95d0-53290450e029" />
 
 --->You can also calculate Gpa of student 
+
 <img width="338" height="324" alt="image" src="https://github.com/user-attachments/assets/66f60c83-d066-497e-a030-2cae5c787527" />
 
 ## We can also perform === FILE OPERATIONS === on this by selecting option 4 on main menu
+
 <img width="449" height="490" alt="image" src="https://github.com/user-attachments/assets/5484b163-5a3a-4e5a-8fac-a62f24aae05d" />
+
 Here by entering choice 1 i can export student data
 
 -->now by option 2
+
  we can Export Courses to CSV
+ 
  <img width="407" height="240" alt="image" src="https://github.com/user-attachments/assets/b4abd812-f3a3-430f-a452-97c2946b40fb" />
 
 
  -->You can also expoert Enrollments to CSV
+ 
  <img width="468" height="251" alt="image" src="https://github.com/user-attachments/assets/771734ab-fd2c-4643-a1c6-2755a5d495ca" />
 
  -->you can also import Student
@@ -216,21 +234,27 @@ Here by entering choice 1 i can export student data
  <img width="895" height="274" alt="image" src="https://github.com/user-attachments/assets/e7aae5d3-d164-4084-b802-f8ff5df24b5b" />
 
  -->you can also import course to csv by option 5
+ 
  <img width="897" height="254" alt="image" src="https://github.com/user-attachments/assets/a40eca7a-45c2-4fbc-8eb1-eac7cd66fab6" />
 
  -->you can also import enrollment to csv file by option 6
+ 
  <img width="987" height="260" alt="image" src="https://github.com/user-attachments/assets/78e0cd17-9bc5-483b-b6b1-00a4c1d862c1" />
 
 
  ===>Now by selection option 5 from the main menu you can see  System Reports in which you can see
+ 
  <img width="340" height="238" alt="image" src="https://github.com/user-attachments/assets/5ce714a5-e70b-4670-a7d8-d6fee5f03a46" />
 
  Furthur you can select operation which you wnt to perform or see here is the screenShot of that record
+ 
  <img width="467" height="610" alt="image" src="https://github.com/user-attachments/assets/e681ac6d-5834-4181-9f7a-6e78cc54707b" />
+ 
  <img width="660" height="639" alt="image" src="https://github.com/user-attachments/assets/0f89a6fc-e6cc-4938-a5a8-5e178ab76d74" />
 
 
 ==>You can also add  Backup Operations by selecting option 6 from the mein menu
+
 <img width="626" height="382" alt="image" src="https://github.com/user-attachments/assets/04d99bae-7aeb-46be-81e9-e8e739e852de" />
 
 Here you can perform 4 operations which are listed as follow
@@ -240,7 +264,9 @@ Here you can perform 4 operations which are listed as follow
 4. Cleanup Old Backups
 
 ScreenShot of these operations are as follow:
+
 <img width="681" height="730" alt="image" src="https://github.com/user-attachments/assets/b970c0aa-f1f5-41f9-a5a5-53cf21f3da4b" />
+
 <img width="565" height="230" alt="image" src="https://github.com/user-attachments/assets/fd581d5e-34ba-4c3b-93c3-ff1727c66784" />
 
 Thank you
