@@ -1,6 +1,6 @@
 # Quick Start Guide - Campus Course & Records Manager
 
-## 🚀 Getting Started in 5 Minutes
+## Getting Started in 5 Minutes
 
 ### Step 1: Build the Application
 ```bash
@@ -33,11 +33,11 @@ java -cp bin com.ccrm.CampusCourseRecordsManager
 - **System Reports**: Check GPA distribution and statistics
 - **Backup Operations**: Create a backup of your data
 
-## 🎯 Key Features to Try
+## Key Features to Try
 
 ### 1. Student Transcript Generation
 - Go to **Student Management** → **Generate Student Transcript**
-- Enter student ID: `STU001`
+- Enter student ID: `24BCE10389`
 - Choose to include inactive courses
 - View the formatted transcript
 
@@ -48,7 +48,7 @@ java -cp bin com.ccrm.CampusCourseRecordsManager
 
 ### 3. GPA Calculation
 - Go to **Enrollment & Grading** → **Calculate Student GPA**
-- Enter student ID: `STU002`
+- Enter student ID: `24BCE10389`
 - View calculated GPA
 
 ### 4. System Statistics
@@ -59,7 +59,7 @@ java -cp bin com.ccrm.CampusCourseRecordsManager
 - Go to **Backup Operations** → **Create Backup**
 - Check the backup directory for timestamped folders
 
-## 📊 Sample Data Overview
+## Sample Data Overview
 
 The sample data includes:
 - **5 Students** with realistic information
@@ -93,7 +93,7 @@ The sample data includes:
 - Review the code comments for implementation details
 - All technical concepts are documented with examples
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 This project demonstrates:
 - **Object-Oriented Programming**: Inheritance, encapsulation, polymorphism
@@ -107,8 +107,8 @@ This project demonstrates:
 
 1. **Explore the Code**: Read through the source files to understand implementation
 2. **Modify Data**: Add your own students and courses
-3. **Extend Features**: Try adding new functionality
+3. **Extend Features**: Try adding new fEATURES
 4. **Study Patterns**: Understand how design patterns are applied
-5. **Review Documentation**: Check the comprehensive README.md
+5. **Review Documentation**: Check the  README.md
 
-Enjoy exploring the Campus Course & Records Manager! 🎉
+
