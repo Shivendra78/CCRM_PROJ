@@ -5,13 +5,13 @@ Project Overview
 Campus Course Records Manager (CCRM) is a Java console application for managing students, courses, enrollments, and grades. It helps administrators add, update, and deactivate students and courses, enroll students, assign grades, calculate GPA, and handle CSV import/export with backup support.
 
 Features
-Student Management:Add, list, update, and deactivate students.
-Course Management: Add, list, update, and deactivate courses.
-Enrollment & Grading: Enroll/unenroll students, record grades, compute GPA.
-File Operations:Import/export students, courses, and enrollments using CSV files.
-Backup & Utilities:Backup data files and recursive folder size and file listing utilities.
-Robust CLI: Command-line interface with input validation, confirmation prompts, and user-friendly menus.
-Java Concepts: Use of enums, exceptions, assertions, design patterns (Singleton, Builder), and Java streams.
+-->Student Management:Add, list, update, and deactivate students.
+-->Course Management: Add, list, update, and deactivate courses.
+-->Enrollment & Grading: Enroll/unenroll students, record grades, compute GPA.
+-->File Operations:Import/export students, courses, and enrollments using CSV files.
+-->Backup & Utilities:Backup data files and recursive folder size and file listing utilities.
+-->Robust CLI: Command-line interface with input validation, confirmation prompts, and user-friendly menus.
+-->Java Concepts: Use of enums, exceptions, assertions, design patterns (Singleton, Builder), and Java streams.
 
 # The Evolution of Java
 
