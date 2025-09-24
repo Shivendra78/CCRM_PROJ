@@ -104,6 +104,12 @@ Sample Command:
 'java -ea com.ccrm.CampusCourseRecordsManager'
 
 *ScreenShot of the Operations included in this program
+## JDK Version Check and output snapshot
+
+
+<img width="1148" height="371" alt="image" src="https://github.com/user-attachments/assets/5055185d-f29d-4289-9345-65c476797d26" />
+
+
 --> Main Output of the code looks like this where you find options to select as per your requirement
 
 <img width="545" height="337" alt="image" src="https://github.com/user-attachments/assets/bf0ae9bf-0303-40e0-9ffc-f3035a79f130" />
